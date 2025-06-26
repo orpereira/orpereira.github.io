@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #4A4E69;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -110,12 +110,12 @@ input, select, textarea {
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
-		color: #43B3E0;
+		color: #9A8C98;
 		text-decoration: underline;
 	}
 
 		a:hover {
-			color: #43bff0 !important;
+			color: #C9ADA7 !important;
 		}
 
 		a img {
@@ -124,7 +124,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #3e3e3e;
+		color: #22223B;
 	}
 
 	i, em {
@@ -144,13 +144,13 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left: solid 0.75em #eee;
+		border-left: solid 0.75em #C9ADA7;
 		padding: 1em 0 1em 1.5em;
 		font-style: italic;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #22223B;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -1541,8 +1541,8 @@ input, select, textarea {
 		form input[type=password]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #fafafa;
-			box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025), inset 0px 0px 2px 1px #43bff0;
+			background: #F2E9E4;
+			box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025), inset 0px 0px 2px 1px #9A8C98;
 		}
 
 	form textarea {
@@ -1603,7 +1603,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background: #4f4f4f;
+				background: #4A4E69;
 				color: #fff;
 			}
 
@@ -1686,7 +1686,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #43B3E0;
+		background-color: #9A8C98;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1697,7 +1697,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #C9ADA7;
 			color: #fff !important;
 		}
 
@@ -1706,7 +1706,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #3BA8D3;
+			background-color: #4A4E69;
 			top: 1px;
 		}
 
@@ -1724,8 +1724,8 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background-color: #444;
-			box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
+			background-color: #4A4E69;
+			box-shadow: inset 0px 0px 0px 1px #22223B, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
 		}
 
 			input[type="button"].alt:hover,
@@ -1733,7 +1733,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background-color: #4f4f4f;
+				background-color: #9A8C98;
 				color: #fff !important;
 			}
 
@@ -1742,7 +1742,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background-color: #3f3f3f;
+				background-color: #22223B;
 			}
 
 /* List */
@@ -1804,9 +1804,9 @@ input, select, textarea {
 					-webkit-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
 					transition: background-color .2s ease-in-out;
-					background-color: #444;
+					background-color: #4A4E69;
 					border-radius: 6px;
-					box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
+					box-shadow: inset 0px 0px 0px 1px #22223B, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
 					color: #2E2E2E !important;
 					display: block;
 					font-size: 26px;
@@ -1911,7 +1911,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: #F2E9E4;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -1974,7 +1974,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #9A8C98;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -1995,23 +1995,23 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: #F2E9E4;
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
-			text-shadow: 1px 1px 0px #fff;
+			background-color: #C9ADA7;
+			text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
-			text-shadow: 1px 1px 0px #fff;
+			background-color: #9A8C98;
+			text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3);
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
-			color: #999;
-			text-shadow: -1px -1px 0px #181818;
+			background-color: #22223B;
+			color: #C9ADA7;
+			text-shadow: -1px -1px 0px #000;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
@@ -2023,20 +2023,22 @@ input, select, textarea {
 			.wrapper.style4 form select,
 			.wrapper.style4 form textarea {
 				border: none;
-				background: #282828;
+				background: #4A4E69;
+				color: #F2E9E4;
 			}
 
 				.wrapper.style4 form input[type=text]:focus,
 				.wrapper.style4 form input[type=password]:focus,
 				.wrapper.style4 form select:focus,
 				.wrapper.style4 form textarea:focus {
-					background: #252525;
+					background: #9A8C98;
+					color: #fff;
 				}
 
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #22223B;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2079,11 +2081,11 @@ input, select, textarea {
 
 			#nav a:hover {
 				color: #fff !important;
-				background: #383838;
+				background: #4A4E69;
 			}
 
 			#nav a.active {
-				background: #484848;
+				background: #9A8C98;
 			}
 
 				#nav a.active:before {
@@ -2095,7 +2097,7 @@ input, select, textarea {
 					margin-left: -0.75em;
 					border-left: solid 0.75em transparent;
 					border-right: solid 0.75em transparent;
-					border-top: solid 0.6em #282828;
+					border-top: solid 0.6em #22223B;
 				}
 
 /* Articles */
